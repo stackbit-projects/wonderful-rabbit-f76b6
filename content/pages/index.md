@@ -232,6 +232,14 @@ sections:
       - label: Get the e-book
         url: /pricing
         style: primary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     actions_position: bottom
     align: center
     padding_top: large
