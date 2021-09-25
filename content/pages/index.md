@@ -183,12 +183,6 @@ sections:
            - Upgrade your brand, website and social media
            - Prepare effective collateral for your business
            - Start advertising your company online
-      - content: |-
-          #### Product managers
-           - Understand the context of your product work
-           - Learn how to segment your audience properly
-           - Implement brand voice and style in your work
-           - Connect top of funnel activities with your flow
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
