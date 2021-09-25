@@ -22,7 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    image_alt: Marudhar
+    image_alt: Marudhar1 history book
   - type: grid_section
     title: 'Read by marketers at:'
     align: center
