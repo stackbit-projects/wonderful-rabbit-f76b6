@@ -172,12 +172,6 @@ sections:
            - Get access to marketing gurus and their tips
            - Prepare killer presentations and collateral
       - content: |-
-          #### Designers
-           - Gain big picture insights that affect design
-           - Learn how your design can inspire action
-           - Make advertisements that convert
-           - Create digital assets for the right audience
-      - content: |-
           #### Business owners
            - Kickstart your marketing plan and efforts
            - Upgrade your brand, website and social media
