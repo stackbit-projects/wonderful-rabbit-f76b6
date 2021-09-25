@@ -227,7 +227,7 @@ sections:
     align: center
     background_color: none
   - type: cta_section
-    title: Download the e-book today
+    title: Read more the e-book today
     actions:
       - label: Get the e-book
         url: /pricing
