@@ -1,5 +1,5 @@
 ---
-title: Hi
+title: History
 sections:
   - type: hero_section
     title: Hi guys my new book website
