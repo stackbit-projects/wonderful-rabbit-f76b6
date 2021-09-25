@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The Marketing Tricks No MBA Can Teach You
+    title: Hi guys my new book website
     subtitle: Your guide to B2B marketing in the real world.
     content: |-
       This book is your go-to guide for all marketing channels. Learn how to
@@ -82,8 +82,7 @@ sections:
       - title: |-
           “This book is inspiring and practical. It’s thought-provoking and full
           of examples which definitely motivates me”
-        subtitle: |-
-          Hilary Ouse, Sr. Marketing Manager at Company
+        subtitle: 'Hilary Ouse, Sr. Marketing Manager at Company'
         image: images/hilary-ouse.png
         image_alt: Brandon Guidelines
         media_position: left
@@ -102,10 +101,12 @@ sections:
 
           Discovery, research and pure intuition: How to slice and dice all the
           information you can gather about your customers.
-      - content: |-
+      - content: >-
           ### Performance Marketing
 
-          Know your PPC from your CPA and CTR — a quick start guide to performance marketing channels, setups, budgeting and creative.
+
+          Know your PPC from your CPA and CTR — a quick start guide to
+          performance marketing channels, setups, budgeting and creative.
       - content: |-
           ### The Truth About Branding
 
@@ -117,10 +118,13 @@ sections:
           What you should be writing about, where it should be published, who
           should read it, and what difference does it make. A comprehensive
           guide to content marketing.
-      - content: |-
+      - content: >-
           ### Social Media
 
-          Google, Facebook, TikTok, LinkedIn — what should you use, and how? And how do you know that it's actually working? Build a social media strategy like a pro.
+
+          Google, Facebook, TikTok, LinkedIn — what should you use, and how? And
+          how do you know that it's actually working? Build a social media
+          strategy like a pro.
       - content: |-
           ### Seeing What Works
 
@@ -197,7 +201,7 @@ sections:
   - type: features_section
     features:
       - title: What’s Inside
-        subtitle: Brandon Guidelines, Marketing Guru
+        subtitle: 'Brandon Guidelines, Marketing Guru'
         content: |-
           **Marketing in the real world** is very different than what we learn
           at school. If you've recently graduated and are making your first
@@ -241,26 +245,26 @@ seo:
   title: Stackbit Book Theme
   description: The preview of the Book theme
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Stackbit Book Theme
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: The preview of the Book theme
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/book-preview.png
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Stackbit Book Theme
-    - name: twitter:description
+    - name: 'twitter:description'
       value: The preview of the Book theme
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/book-preview.png
       relativeUrl: true
 layout: advanced
